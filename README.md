@@ -7,7 +7,7 @@
 
 A comprehensive and reproducible machine-learning pipeline for predicting the functional class of experimentally characterized proteins using **sequence composition** and **structural secondary features** extracted from the **RCSB Protein Data Bank (PDB)**.
 
-The project combines classical machine-learning models with a PyTorch neural network and includes **sequence-similarity-aware evaluation** to reduce data leakage caused by highly homologous protein sequences.
+The project combines classical machine-learning models with a PyTorch neural network and includes **sequence-similarity-aware evaluation** to reduce data leakage caused by highly homologous protein sequence.
 
 ---
 
